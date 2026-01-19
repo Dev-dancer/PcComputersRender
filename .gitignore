@@ -1,0 +1,68 @@
+# Logs
+ecom-frontend/sb-ecom/logs
+ecom-frontend/sb-ecom/*.log
+ecom-frontend/sb-ecom/npm-debug.log*
+ecom-frontend/sb-ecom/yarn-debug.log*
+ecom-frontend/sb-ecom/yarn-error.log*
+ecom-frontend/sb-ecom/pnpm-debug.log*
+ecom-frontend/sb-ecom/lerna-debug.log*
+
+ecom-frontend/sb-ecom/node_modules
+ecom-frontend/sb-ecom/dist
+ecom-frontend/sb-ecom/dist-ssr
+ecom-frontend/sb-ecom/*.local
+
+# Editor directories and files
+ecom-frontend/sb-ecom/.vscode/*
+ecom-frontend/sb-ecom/!.vscode/extensions.json
+ecom-frontend/sb-ecom/.idea
+ecom-frontend/sb-ecom/.DS_Store
+ecom-frontend/sb-ecom/*.suo
+ecom-frontend/sb-ecom/*.ntvs*
+ecom-frontend/sb-ecom/*.njsproj
+ecom-frontend/sb-ecom/*.sln
+ecom-frontend/sb-ecom/*.sw?
+
+.env
+.env.*
+
+sb-ecom/HELP.md
+sb-ecom/target/
+sb-ecom/!.mvn/wrapper/maven-wrapper.jar
+sb-ecom/!**/src/main/**/target/
+sb-ecom/!**/src/test/**/target/
+
+### STS ###
+sb-ecom/.apt_generated
+sb-ecom/.classpath
+sb-ecom/.factorypath
+sb-ecom/.project
+sb-ecom/.settings
+sb-ecom/.springBeans
+sb-ecom/.sts4-cache
+
+# Ignore the images folder
+sb-ecom/images/
+
+
+### IntelliJ IDEA ###
+sb-ecom/.idea
+sb-ecom/*.iws
+sb-ecom/*.iml
+sb-ecom/*.ipr
+
+### NetBeans ###
+sb-ecom//nbproject/private/
+sb-ecom//nbbuild/
+sb-ecom//dist/
+sb-ecom//nbdist/
+sb-ecom//.nb-gradle/
+sb-ecom/build/
+sb-ecom/!**/src/main/**/build/
+sb-ecom/!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+sb-ecom/.env
+ecom-frontend/.env
